@@ -1,0 +1,21 @@
+data:
+  name: datainstance
+  keypair: test
+  subnetid: subnet-9a098ed0
+  imageid: ami-090717c950a5c34d3
+  instancetype: t2.large
+  securitygroupid: sg-e47086ef
+app:
+  name: appinstance
+  keypair: test
+  subnetid: subnet-9a098ed0
+  imageid: ami-090717c950a5c34d3
+  instancetype: t2.large
+  securitygroupid: sg-e47086ef
+web:
+  name: webinstance
+  keypair: test
+  subnetid: subnet-9a098ed0
+  imageid: ami-090717c950a5c34d3
+  instancetype: t2.large
+  securitygroupid: sg-e47086ef
